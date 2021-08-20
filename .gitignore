@@ -10,7 +10,7 @@ lerna-debug.log
 *.code-workspace
 dist
 *.sublime-settings
-*.db
+# *.db
 .nyc_output
 .history
 /.idea/

@@ -5,7 +5,7 @@ node_modules
 uploads
 extensions
 debug.db
-*.db
+# *.db
 test
 dist
 tmp
